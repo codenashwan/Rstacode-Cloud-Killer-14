@@ -1,0 +1,9 @@
+button,
+.btn {
+    font-weight: initial !important;
+    text-transform: inherit !important;
+}
+.result {
+    height: 100px;
+    overflow: auto;
+}
